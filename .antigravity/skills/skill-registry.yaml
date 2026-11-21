@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: micronesia-fsman-restitution-roadmap-and-qsf-trust-execution
-  name: Micronesia Fsman Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/micronesia-fsman-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_fm_001
+    name: Micronesia Fsm Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_002
+    name: Micronesia Fsm Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_003
+    name: Micronesia Fsm Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_004
+    name: Micronesia Fsm Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_005
+    name: Micronesia Fsm Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_006
+    name: Micronesia Fsm Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_007
+    name: Micronesia Fsm Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_008
+    name: Micronesia Fsm Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_009
+    name: Micronesia Fsm Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_010
+    name: Micronesia Fsm Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_011
+    name: Micronesia Fsm Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_012
+    name: Micronesia Fsm Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_013
+    name: Micronesia Fsm Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_014
+    name: Micronesia Fsm Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_015
+    name: Micronesia Fsm Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_016
+    name: Micronesia Fsm Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_017
+    name: Micronesia Fsm Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_018
+    name: Micronesia Fsm Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_019
+    name: Micronesia Fsm Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_020
+    name: Micronesia Fsm Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_021
+    name: Micronesia Fsm Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_022
+    name: Micronesia Fsm Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_023
+    name: Micronesia Fsm Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_024
+    name: Micronesia Fsm Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_025
+    name: Micronesia Fsm Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_026
+    name: Micronesia Fsm Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_027
+    name: Micronesia Fsm Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_028
+    name: Micronesia Fsm Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_029
+    name: Micronesia Fsm Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_030
+    name: Micronesia Fsm Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_031
+    name: Micronesia Fsm Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_032
+    name: Micronesia Fsm Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_033
+    name: Micronesia Fsm Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_034
+    name: Micronesia Fsm Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_035
+    name: Micronesia Fsm Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_036
+    name: Micronesia Fsm Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_037
+    name: Micronesia Fsm Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_038
+    name: Micronesia Fsm Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_039
+    name: Micronesia Fsm Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_040
+    name: Micronesia Fsm Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_041
+    name: Micronesia Fsm Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_042
+    name: Micronesia Fsm Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_043
+    name: Micronesia Fsm Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_044
+    name: Micronesia Fsm Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_045
+    name: Micronesia Fsm Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_046
+    name: Micronesia Fsm Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_047
+    name: Micronesia Fsm Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_048
+    name: Micronesia Fsm Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_049
+    name: Micronesia Fsm Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_050
+    name: Micronesia Fsm Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_051
+    name: Micronesia Fsm Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_052
+    name: Micronesia Fsm Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_053
+    name: Micronesia Fsm Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_054
+    name: Micronesia Fsm Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_055
+    name: Micronesia Fsm Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_056
+    name: Micronesia Fsm Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_057
+    name: Micronesia Fsm Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_058
+    name: Micronesia Fsm Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_059
+    name: Micronesia Fsm Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_060
+    name: Micronesia Fsm Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_061
+    name: Micronesia Fsm Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_062
+    name: Micronesia Fsm Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_063
+    name: Micronesia Fsm Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_064
+    name: Micronesia Fsm Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_065
+    name: Micronesia Fsm Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_066
+    name: Micronesia Fsm Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_067
+    name: Micronesia Fsm Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_068
+    name: Micronesia Fsm Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_069
+    name: Micronesia Fsm Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_070
+    name: Micronesia Fsm Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_071
+    name: Micronesia Fsm Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_072
+    name: Micronesia Fsm Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_073
+    name: Micronesia Fsm Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_074
+    name: Micronesia Fsm Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_075
+    name: Micronesia Fsm Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_076
+    name: Micronesia Fsm Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_077
+    name: Micronesia Fsm Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_078
+    name: Micronesia Fsm Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_079
+    name: Micronesia Fsm Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_080
+    name: Micronesia Fsm Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_081
+    name: Micronesia Fsm Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_082
+    name: Micronesia Fsm Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_083
+    name: Micronesia Fsm Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_084
+    name: Micronesia Fsm Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_085
+    name: Micronesia Fsm Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_086
+    name: Micronesia Fsm Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_087
+    name: Micronesia Fsm Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_088
+    name: Micronesia Fsm Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_089
+    name: Micronesia Fsm Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_090
+    name: Micronesia Fsm Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_091
+    name: Micronesia Fsm Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_092
+    name: Micronesia Fsm Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_093
+    name: Micronesia Fsm Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_094
+    name: Micronesia Fsm Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_095
+    name: Micronesia Fsm Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_096
+    name: Micronesia Fsm Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_097
+    name: Micronesia Fsm Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_098
+    name: Micronesia Fsm Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_099
+    name: Micronesia Fsm Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_100
+    name: Micronesia Fsm Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_101
+    name: Micronesia Fsm Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_102
+    name: Micronesia Fsm Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_103
+    name: Micronesia Fsm Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_104
+    name: Micronesia Fsm Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_105
+    name: Micronesia Fsm Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_106
+    name: Micronesia Fsm Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_107
+    name: Micronesia Fsm Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_108
+    name: Micronesia Fsm Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_109
+    name: Micronesia Fsm Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_110
+    name: Micronesia Fsm Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_111
+    name: Micronesia Fsm Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_112
+    name: Micronesia Fsm Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_113
+    name: Micronesia Fsm Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_114
+    name: Micronesia Fsm Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_115
+    name: Micronesia Fsm Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_116
+    name: Micronesia Fsm Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_117
+    name: Micronesia Fsm Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_118
+    name: Micronesia Fsm Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_119
+    name: Micronesia Fsm Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_120
+    name: Micronesia Fsm Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_121
+    name: Micronesia Fsm Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_122
+    name: Micronesia Fsm Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_123
+    name: Micronesia Fsm Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_124
+    name: Micronesia Fsm Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_125
+    name: Micronesia Fsm Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_126
+    name: Micronesia Fsm Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_127
+    name: Micronesia Fsm Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_128
+    name: Micronesia Fsm Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_129
+    name: Micronesia Fsm Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_130
+    name: Micronesia Fsm Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_131
+    name: Micronesia Fsm Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_132
+    name: Micronesia Fsm Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_133
+    name: Micronesia Fsm Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_134
+    name: Micronesia Fsm Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_135
+    name: Micronesia Fsm Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_136
+    name: Micronesia Fsm Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_137
+    name: Micronesia Fsm Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_138
+    name: Micronesia Fsm Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_139
+    name: Micronesia Fsm Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_140
+    name: Micronesia Fsm Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_141
+    name: Micronesia Fsm Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_142
+    name: Micronesia Fsm Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_143
+    name: Micronesia Fsm Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_144
+    name: Micronesia Fsm Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_145
+    name: Micronesia Fsm Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_146
+    name: Micronesia Fsm Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_147
+    name: Micronesia Fsm Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_148
+    name: Micronesia Fsm Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_149
+    name: Micronesia Fsm Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_150
+    name: Micronesia Fsm Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_151
+    name: Micronesia Fsm Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_152
+    name: Micronesia Fsm Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_153
+    name: Micronesia Fsm Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_154
+    name: Micronesia Fsm Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_155
+    name: Micronesia Fsm Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_156
+    name: Micronesia Fsm Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_157
+    name: Micronesia Fsm Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_158
+    name: Micronesia Fsm Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_159
+    name: Micronesia Fsm Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_160
+    name: Micronesia Fsm Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_161
+    name: Micronesia Fsm Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_162
+    name: Micronesia Fsm Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_163
+    name: Micronesia Fsm Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_164
+    name: Micronesia Fsm Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_165
+    name: Micronesia Fsm Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_166
+    name: Micronesia Fsm Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_167
+    name: Micronesia Fsm Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_168
+    name: Micronesia Fsm Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_169
+    name: Micronesia Fsm Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_170
+    name: Micronesia Fsm Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_171
+    name: Micronesia Fsm Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_172
+    name: Micronesia Fsm Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_173
+    name: Micronesia Fsm Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_174
+    name: Micronesia Fsm Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_175
+    name: Micronesia Fsm Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_176
+    name: Micronesia Fsm Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_177
+    name: Micronesia Fsm Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_178
+    name: Micronesia Fsm Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_179
+    name: Micronesia Fsm Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_180
+    name: Micronesia Fsm Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_181
+    name: Micronesia Fsm Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_182
+    name: Micronesia Fsm Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_183
+    name: Micronesia Fsm Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_184
+    name: Micronesia Fsm Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_185
+    name: Micronesia Fsm Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_186
+    name: Micronesia Fsm Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_187
+    name: Micronesia Fsm Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_188
+    name: Micronesia Fsm Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_189
+    name: Micronesia Fsm Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_190
+    name: Micronesia Fsm Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_191
+    name: Micronesia Fsm Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_192
+    name: Micronesia Fsm Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_193
+    name: Micronesia Fsm Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_194
+    name: Micronesia Fsm Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_195
+    name: Micronesia Fsm Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_196
+    name: Micronesia Fsm Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_197
+    name: Micronesia Fsm Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_198
+    name: Micronesia Fsm Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_199
+    name: Micronesia Fsm Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_200
+    name: Micronesia Fsm Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_201
+    name: Micronesia Fsm Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_202
+    name: Micronesia Fsm Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_203
+    name: Micronesia Fsm Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_204
+    name: Micronesia Fsm Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_205
+    name: Micronesia Fsm Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_206
+    name: Micronesia Fsm Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_207
+    name: Micronesia Fsm Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_208
+    name: Micronesia Fsm Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_209
+    name: Micronesia Fsm Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_210
+    name: Micronesia Fsm Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_211
+    name: Micronesia Fsm Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_212
+    name: Micronesia Fsm Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_213
+    name: Micronesia Fsm Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_214
+    name: Micronesia Fsm Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_215
+    name: Micronesia Fsm Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_216
+    name: Micronesia Fsm Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_217
+    name: Micronesia Fsm Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_218
+    name: Micronesia Fsm Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_219
+    name: Micronesia Fsm Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_220
+    name: Micronesia Fsm Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_221
+    name: Micronesia Fsm Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_222
+    name: Micronesia Fsm Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_223
+    name: Micronesia Fsm Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_224
+    name: Micronesia Fsm Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_225
+    name: Micronesia Fsm Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_226
+    name: Micronesia Fsm Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_227
+    name: Micronesia Fsm Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_228
+    name: Micronesia Fsm Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_229
+    name: Micronesia Fsm Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_230
+    name: Micronesia Fsm Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_231
+    name: Micronesia Fsm Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_232
+    name: Micronesia Fsm Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_233
+    name: Micronesia Fsm Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_234
+    name: Micronesia Fsm Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_235
+    name: Micronesia Fsm Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_236
+    name: Micronesia Fsm Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_237
+    name: Micronesia Fsm Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_238
+    name: Micronesia Fsm Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_239
+    name: Micronesia Fsm Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_240
+    name: Micronesia Fsm Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_241
+    name: Micronesia Fsm Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_242
+    name: Micronesia Fsm Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_243
+    name: Micronesia Fsm Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_244
+    name: Micronesia Fsm Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_245
+    name: Micronesia Fsm Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_246
+    name: Micronesia Fsm Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_247
+    name: Micronesia Fsm Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_248
+    name: Micronesia Fsm Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_249
+    name: Micronesia Fsm Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_250
+    name: Micronesia Fsm Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_251
+    name: Micronesia Fsm Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_fm_252
+    name: Micronesia Fsm Skill 252
+    status: ACTIVE_SCAFFOLD

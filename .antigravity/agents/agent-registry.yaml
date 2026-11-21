@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-micronesia-fsm-canal-and-intervention-historian
-  name: Micronesia Fsm Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-micronesia-fsm-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_fm_001
+    name: Micronesia Fsm Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_002
+    name: Micronesia Fsm Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_003
+    name: Micronesia Fsm Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_004
+    name: Micronesia Fsm Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_005
+    name: Micronesia Fsm Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_006
+    name: Micronesia Fsm Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_007
+    name: Micronesia Fsm Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_008
+    name: Micronesia Fsm Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_009
+    name: Micronesia Fsm Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_010
+    name: Micronesia Fsm Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_011
+    name: Micronesia Fsm Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_012
+    name: Micronesia Fsm Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_013
+    name: Micronesia Fsm Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_014
+    name: Micronesia Fsm Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_015
+    name: Micronesia Fsm Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_016
+    name: Micronesia Fsm Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_017
+    name: Micronesia Fsm Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_018
+    name: Micronesia Fsm Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_019
+    name: Micronesia Fsm Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_020
+    name: Micronesia Fsm Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_021
+    name: Micronesia Fsm Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_022
+    name: Micronesia Fsm Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_023
+    name: Micronesia Fsm Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_024
+    name: Micronesia Fsm Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_025
+    name: Micronesia Fsm Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_026
+    name: Micronesia Fsm Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_027
+    name: Micronesia Fsm Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_028
+    name: Micronesia Fsm Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_029
+    name: Micronesia Fsm Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_030
+    name: Micronesia Fsm Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_031
+    name: Micronesia Fsm Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_032
+    name: Micronesia Fsm Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_033
+    name: Micronesia Fsm Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_034
+    name: Micronesia Fsm Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_035
+    name: Micronesia Fsm Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_036
+    name: Micronesia Fsm Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_037
+    name: Micronesia Fsm Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_038
+    name: Micronesia Fsm Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_039
+    name: Micronesia Fsm Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_040
+    name: Micronesia Fsm Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_041
+    name: Micronesia Fsm Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_042
+    name: Micronesia Fsm Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_043
+    name: Micronesia Fsm Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_044
+    name: Micronesia Fsm Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_045
+    name: Micronesia Fsm Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_046
+    name: Micronesia Fsm Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_047
+    name: Micronesia Fsm Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_048
+    name: Micronesia Fsm Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_049
+    name: Micronesia Fsm Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_050
+    name: Micronesia Fsm Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_051
+    name: Micronesia Fsm Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_052
+    name: Micronesia Fsm Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_053
+    name: Micronesia Fsm Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_054
+    name: Micronesia Fsm Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_055
+    name: Micronesia Fsm Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_056
+    name: Micronesia Fsm Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_057
+    name: Micronesia Fsm Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_058
+    name: Micronesia Fsm Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_059
+    name: Micronesia Fsm Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_060
+    name: Micronesia Fsm Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_061
+    name: Micronesia Fsm Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_062
+    name: Micronesia Fsm Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_063
+    name: Micronesia Fsm Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_064
+    name: Micronesia Fsm Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_065
+    name: Micronesia Fsm Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_066
+    name: Micronesia Fsm Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_067
+    name: Micronesia Fsm Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_068
+    name: Micronesia Fsm Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_069
+    name: Micronesia Fsm Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_070
+    name: Micronesia Fsm Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_071
+    name: Micronesia Fsm Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_072
+    name: Micronesia Fsm Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_073
+    name: Micronesia Fsm Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_074
+    name: Micronesia Fsm Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_075
+    name: Micronesia Fsm Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_076
+    name: Micronesia Fsm Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_077
+    name: Micronesia Fsm Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_078
+    name: Micronesia Fsm Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_079
+    name: Micronesia Fsm Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_080
+    name: Micronesia Fsm Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_081
+    name: Micronesia Fsm Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_082
+    name: Micronesia Fsm Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_083
+    name: Micronesia Fsm Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_084
+    name: Micronesia Fsm Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_085
+    name: Micronesia Fsm Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_086
+    name: Micronesia Fsm Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_087
+    name: Micronesia Fsm Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_088
+    name: Micronesia Fsm Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_089
+    name: Micronesia Fsm Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_090
+    name: Micronesia Fsm Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_091
+    name: Micronesia Fsm Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_092
+    name: Micronesia Fsm Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_093
+    name: Micronesia Fsm Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_094
+    name: Micronesia Fsm Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_095
+    name: Micronesia Fsm Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_096
+    name: Micronesia Fsm Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_097
+    name: Micronesia Fsm Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_098
+    name: Micronesia Fsm Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_099
+    name: Micronesia Fsm Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_100
+    name: Micronesia Fsm Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_101
+    name: Micronesia Fsm Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_102
+    name: Micronesia Fsm Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_103
+    name: Micronesia Fsm Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_104
+    name: Micronesia Fsm Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_105
+    name: Micronesia Fsm Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_106
+    name: Micronesia Fsm Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_107
+    name: Micronesia Fsm Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_108
+    name: Micronesia Fsm Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_109
+    name: Micronesia Fsm Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_110
+    name: Micronesia Fsm Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_111
+    name: Micronesia Fsm Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_112
+    name: Micronesia Fsm Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_113
+    name: Micronesia Fsm Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_114
+    name: Micronesia Fsm Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_115
+    name: Micronesia Fsm Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_116
+    name: Micronesia Fsm Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_117
+    name: Micronesia Fsm Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_118
+    name: Micronesia Fsm Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_119
+    name: Micronesia Fsm Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_120
+    name: Micronesia Fsm Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_121
+    name: Micronesia Fsm Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_122
+    name: Micronesia Fsm Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_123
+    name: Micronesia Fsm Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_124
+    name: Micronesia Fsm Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_125
+    name: Micronesia Fsm Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_126
+    name: Micronesia Fsm Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_127
+    name: Micronesia Fsm Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_128
+    name: Micronesia Fsm Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_129
+    name: Micronesia Fsm Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_130
+    name: Micronesia Fsm Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_131
+    name: Micronesia Fsm Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_132
+    name: Micronesia Fsm Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_133
+    name: Micronesia Fsm Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_134
+    name: Micronesia Fsm Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_135
+    name: Micronesia Fsm Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_136
+    name: Micronesia Fsm Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_137
+    name: Micronesia Fsm Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_138
+    name: Micronesia Fsm Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_139
+    name: Micronesia Fsm Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_140
+    name: Micronesia Fsm Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_141
+    name: Micronesia Fsm Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_142
+    name: Micronesia Fsm Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_143
+    name: Micronesia Fsm Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_144
+    name: Micronesia Fsm Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_145
+    name: Micronesia Fsm Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_146
+    name: Micronesia Fsm Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_147
+    name: Micronesia Fsm Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_148
+    name: Micronesia Fsm Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_149
+    name: Micronesia Fsm Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_150
+    name: Micronesia Fsm Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_151
+    name: Micronesia Fsm Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_152
+    name: Micronesia Fsm Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_153
+    name: Micronesia Fsm Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_154
+    name: Micronesia Fsm Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_155
+    name: Micronesia Fsm Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_156
+    name: Micronesia Fsm Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_157
+    name: Micronesia Fsm Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_158
+    name: Micronesia Fsm Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_159
+    name: Micronesia Fsm Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_160
+    name: Micronesia Fsm Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_161
+    name: Micronesia Fsm Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_162
+    name: Micronesia Fsm Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_163
+    name: Micronesia Fsm Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_164
+    name: Micronesia Fsm Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_165
+    name: Micronesia Fsm Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_166
+    name: Micronesia Fsm Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_167
+    name: Micronesia Fsm Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_168
+    name: Micronesia Fsm Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_169
+    name: Micronesia Fsm Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_fm_170
+    name: Micronesia Fsm Agent 170
+    status: ACTIVE_SCAFFOLD
