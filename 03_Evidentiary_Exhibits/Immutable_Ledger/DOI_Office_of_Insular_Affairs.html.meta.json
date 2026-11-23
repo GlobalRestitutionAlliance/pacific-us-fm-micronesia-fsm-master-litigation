@@ -1,0 +1,16 @@
+{
+  "url": "https://www.doi.gov/oia/islands/fsm",
+  "final_url": "https://www.doi.gov/oia/islands/fsm",
+  "title": "DOI Office of Insular Affairs",
+  "fetched_at": "2026-11-23T09:13:02.601278Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 61605,
+  "sha256": "3cb836f1388e0e232beb74a2faa54f9e14b0e7c6908bb7bb7bd5f2afcf1a3600",
+  "provenance": "direct-http-capture",
+  "custodian": "OpenCode/harvest",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://data.worldbank.org/country/micronesia-fed-sts",
+  "final_url": "https://data.worldbank.org/country/micronesia-fed-sts",
+  "title": "World Bank Micronesia",
+  "fetched_at": "2026-11-23T09:29:10.725410Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44560,
+  "sha256": "232e39355aa9cf07bc9ad71cbb541dbffb748f69fe1f6f2060cfcfa5cfac8dbb",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}
