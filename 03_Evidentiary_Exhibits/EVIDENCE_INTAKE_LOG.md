@@ -16,29 +16,6 @@
 | 2026-11-21 | FM_11_ICJ_Cases.html | https://www.icj-cij.org/cases | OpenCode/harvest_public_sources.py | c66ffe4b81a51b59d14e73af2f122066427f895cede793d1e45df84348663107 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200; ct=text/html; charset=utf-8; bytes=62604; final=https://www.icj-cij.org/cases |
 | 2026-11-21 | FM_12_African_Commission_on_Human_and_Peoples_Rights.html | https://achpr.au.int/ | OpenCode/harvest_public_sources.py | d958d08f1614b3421f900c7e7ceb19a52a8e6d58fca67dd17b4b2f03b05a849e | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200; ct=text/html; charset=UTF-8; bytes=194228; final=https://achpr.au.int/ |
 
-| 2026-11-22 | UN OHCHR - Country Page | https://www.ohchr.org/en/countries | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | UN_Human_Rights_Council_-_UPR.html | https://www.ohchr.org/en/hr-bodies/upr/upr-home | OpenCode/harvest | fa55d6f2e84471e532cb948258ee7f38c05d345d811a8bb9b7cd6b42639a0824 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=84317 |
-| 2026-11-22 | CIA FOIA Reading Room | https://www.cia.gov/reading-room/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
-| 2026-11-22 | World Bank Country Data | https://data.worldbank.org/country | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | US_National_Archives.html | https://www.archives.gov/ | OpenCode/harvest | b1be5889069b829d9a2e1f7c05017dd31c0dca382d1e3b3a18d7ef8b6bc77893 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=29358 |
-| 2026-11-22 | Library_of_Congress.html | https://www.loc.gov/ | OpenCode/harvest | 954e885a8a94a297bfad4f39decbc776a07bbec9253527ed3295f17931b3652b | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=75819 |
-| 2026-11-22 | Chronicling America (LOC Newspapers) | https://chroniclingamerica.loc.gov/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | HathiTrust Digital Library | https://www.hathitrust.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | Internet_Archive.html | https://archive.org/ | OpenCode/harvest | 329de0d85f6904215feec653c153fdc1f7f8807e3bfaedb8c05542fcf3c2419f | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=2046 |
-| 2026-11-22 | FOIA.gov.html | https://www.foia.gov/ | OpenCode/harvest | 5d776d0b35ac912d89f42e62a096a58fdf3bc8c1a530d8bd9c502b6cab7fe9e5 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=28089 |
-| 2026-11-22 | NARA_FOIA.html | https://www.archives.gov/foia | OpenCode/harvest | 10a153c64fe2af1e0ff231a21507c4f5d0ee75706dff0532d5dd63839c47fe66 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=41023 |
-| 2026-11-22 | UN Digital Library | https://digitallibrary.un.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | UN OHCHR | https://www.ohchr.org/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | CourtListener | https://www.courtlistener.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | Justia | https://www.justia.com/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 403: Forbidden |
-| 2026-11-22 | WorldCat.html | https://search.worldcat.org/ | OpenCode/harvest | be61971dcddab22b2f4d99d2cad07071db411523d510877e3b381084f5d16c95 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=460996 |
-| 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
-| 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
-
-| 2026-11-23 | US_National_Archives_-_Trust_Territory.html | https://www.archives.gov/research/guide-fed-records/groups/126.html | OpenCode/harvest | 1b42ee31f1781ae96455b9f6399b4bb8e95eaab0ce55f341a70f1badf847dc9d | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=63409 final_url=https://www.archives.gov/research/guide-fed-records/groups/126.html |
-
-| 2026-11-23 | DOI_Office_of_Insular_Affairs.html | https://www.doi.gov/oia/islands/fsm | OpenCode/harvest | 3cb836f1388e0e232beb74a2faa54f9e14b0e7c6908bb7bb7bd5f2afcf1a3600 | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=61605 final_url=https://www.doi.gov/oia/islands/fsm |
-
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
